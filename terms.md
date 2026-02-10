@@ -102,5 +102,5 @@ For questions regarding these Terms, contact:
 </p>
 
 <p>
-📧 <a href="mailto:hello@lumah.org">hello@lumah.org</a>
+<a href="mailto:hello@lumah.org">hello@lumah.org</a>
 </p>
